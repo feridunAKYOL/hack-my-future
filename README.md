@@ -1,4 +1,4 @@
-![ **My _Learnables_ Projects Board**](https://github.com/users/feridunAKYOL/projects/1)
+![ **Feridun's _Learnables_ Projects Board**](https://github.com/users/feridunAKYOL/projects/1)
 
 
 # Hack My Future
